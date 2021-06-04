@@ -1,2 +1,5 @@
-# hands_on_rust
-Following Hands On Rust
+# Hands on Rust
+
+----
+
+Following [Hands On Rust by Herbert Wolverson](https://pragprog.com/titles/hwrust/hands-on-rust/)
